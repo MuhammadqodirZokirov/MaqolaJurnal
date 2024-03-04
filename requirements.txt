@@ -1,0 +1,3 @@
+django
+serpapi
+google-search-results
